@@ -3,6 +3,13 @@
 } */
 
 
+.navbar {
+  height: 40px;
+  display: flex;
+  background: linear-gradient(45deg, #95FD48, #19E9A6);
+  justify-content: space-between;
+}
+
 .links li {
   display: inline;
 }
