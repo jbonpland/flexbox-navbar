@@ -2,6 +2,9 @@
   border: 1px solid black;
 } */
 
+body {
+  margin: 0;
+}
 
 .navbar {
   height: 40px;
