@@ -3,7 +3,7 @@
 A basic navbar built using flexbox
 
 
-## QUickstart
+## Quickstart
 
 - Clone the repo
 - Open 'index.html' in your default browser
